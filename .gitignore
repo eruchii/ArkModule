@@ -126,5 +126,4 @@ dmypy.json
 
 # Debug code
 test_sample.py
-out/
-*.png
+/*.png
