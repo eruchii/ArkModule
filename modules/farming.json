@@ -1,0 +1,22 @@
+[
+    {
+        "uri": "combat_module/start.png",
+        "type": "start",
+        "region": [1563,940,295,69]
+    },
+    {
+        "uri": "combat_module/mission_start.png",
+        "type": "mission_start",
+        "region": [1550,550,213,439]
+    },
+    {
+        "uri": "combat_module/TakeOver.png",
+        "type": "farming",
+        "region": [496,935,227,84]
+    },
+    {
+        "uri": "combat_module/finish_star.png",
+        "type": "finish",
+        "region": [381,764,69,43]
+    }
+]
