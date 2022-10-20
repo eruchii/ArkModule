@@ -2,7 +2,7 @@
     {
         "uri": "combat_module/start.png",
         "type": "start",
-        "region": [1563,940,295,69]
+        "region": [1563,960,295,69]
     },
     {
         "uri": "combat_module/mission_start.png",
@@ -17,6 +17,6 @@
     {
         "uri": "combat_module/finish_star.png",
         "type": "finish",
-        "region": [381,764,69,43]
+        "region": [122,460,58,42]
     }
 ]
