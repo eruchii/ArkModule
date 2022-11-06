@@ -1,0 +1,22 @@
+[
+    {
+        "uri": "combat_module/seaborn_start.png",
+        "type": "start",
+        "region": [1593,924,261,59]
+    },
+    {
+        "uri": "combat_module/mission_start.png",
+        "type": "mission_start",
+        "region": [1550,550,213,439]
+    },
+    {
+        "uri": "combat_module/TakeOver.png",
+        "type": "farming",
+        "region": [496,935,227,84]
+    },
+    {
+        "uri": "combat_module/finish_star.png",
+        "type": "finish",
+        "region": [122,460,58,42]
+    }
+]
