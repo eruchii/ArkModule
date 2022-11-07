@@ -1,8 +1,13 @@
 [
     {
-        "uri": "combat_module/seaborn_start.png",
+        "uri": "combat_module/seaborn_start_1.png",
         "type": "start",
         "region": [1593,924,261,59]
+    },
+    {
+        "uri": "combat_module/seaborn_start_2.png",
+        "type": "start",
+        "region": [1597,550,254,50]
     },
     {
         "uri": "combat_module/mission_start.png",
